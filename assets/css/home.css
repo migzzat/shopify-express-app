@@ -1,0 +1,26 @@
+ body {
+    background-color: #a55eea;
+    text-align: center;
+}
+form {
+    display: inline-block;
+    margin-top: 45vh;
+}
+
+.btn-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn-submit{
+    padding: 15px;
+    border: 2px solid ghostwhite;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: bold;
+    color: ghostwhite;
+    cursor: pointer;
+}
