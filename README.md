@@ -1,6 +1,6 @@
 node js version :: v11.8.0
 =========================
-pushbots-shopify-app
+shopify-app
 =========================
 
 ## first you need to install node_modules
