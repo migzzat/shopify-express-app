@@ -1,6 +1,4 @@
-node js version :: v11.8.0
-=========================
-shopify-app
+shopify-plugin-app
 =========================
 
 ## first you need to install node_modules
